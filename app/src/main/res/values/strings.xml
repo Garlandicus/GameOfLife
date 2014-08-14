@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GameOfLife</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_step">Step</string>
+    <string name="btn_run">Run</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_more">More</string>
+
+    <string name="stateString">null</string>
+
+</resources>
